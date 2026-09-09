@@ -9,3 +9,5 @@ git checkout- switches between branches
 :wq- writes updates and quits vi text editor
 
 git merge- merges branch to main/master
+
+:q!- quit vi text editor without saving changes (overwrites) 
