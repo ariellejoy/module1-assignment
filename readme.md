@@ -1,4 +1,4 @@
-this is my cheat sheet
+## this is my cheat sheet
 
 git init- initializes directory as repo
 
