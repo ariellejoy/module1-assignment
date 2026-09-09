@@ -27,3 +27,5 @@ git log- shows commit history for active branch
 a- appends after the cursor in vi text editor
 
 git status- shows modified files in current directory that have been staged for commit 
+
+git branch- lists all branches, * shows next to active branch
