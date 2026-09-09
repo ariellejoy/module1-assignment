@@ -1,6 +1,6 @@
 this is my cheat sheet
 
-git init- initialize directory as repo
+git init- initializes directory as repo
 
 git checkout- switches between branches
 
@@ -10,7 +10,7 @@ git checkout- switches between branches
 
 git merge- merges branch to main/master
 
-:q!- quit vi text editor without saving changes (overwrites)
+:q!- quits vi text editor without saving changes (overwrites)
 
 git clone- brings down a repo from a hosted environment like GitHub via URL
 
@@ -20,8 +20,10 @@ git pull- pulls recent changes (commits/merges) from repo down to your local
 
 vi [filename]- invokes vi text editor
 
-git log- show commit history for active branch
+git log- shows commit history for active branch
 
 :sh- executes shell commands in vi
 
 a- appends after the cursor in vi text editor
+
+git status- shows modified files in current directory that have been staged for commit 
