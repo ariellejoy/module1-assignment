@@ -21,3 +21,6 @@ git pull- pulls recent changes (commits/merges) from repo down to your local
 vi [filename]- invokes vi text editor
 
 git log- show commit history for active branch
+
+:sh- executes shell commands in vi
+
