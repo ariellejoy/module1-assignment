@@ -24,3 +24,4 @@ git log- show commit history for active branch
 
 :sh- executes shell commands in vi
 
+a- appends after the cursor in vi text editor
