@@ -13,3 +13,5 @@ git merge- merges branch to main/master
 :q!- quit vi text editor without saving changes (overwrites)
 
 git clone- brings down a repo from a hosted environment like GitHub via URL
+
+git push- pushes changes from your local to the repo
